@@ -1,3 +1,4 @@
 <?php
-echo "Hello 2";
-echo "Hello 2";
+$input = [1, 8, 56, 4, 7];
+$max = max($input);
+echo "max: {$max}";
